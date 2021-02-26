@@ -1,8 +1,8 @@
 ## RESUME
 
-GAURAV KUMAR SINHA
-Email-id:
-B.E [Computer Science] 
+- GAURAV KUMAR SINHA
+- Email-id:gauravsinha.k2@gmail.com
+- B.E [Computer Science] 
 
 ### PROFILE:
 
@@ -16,27 +16,56 @@ B.E [Computer Science]
 - Good Experience with Agile Software Processes and Certified SAFe 4 Practitioner.
 - Six Sigma Green Belt certified Professional.
 
-# Header 1
-## Header 2
-### Header 3
+### Technical Skills:
 
-- Bulleted
-- List
+- Technologies: C#.NET, ASP.NET MVC, WPF, Windows Form, HTML, AngularJS, Angular, ADO.NET, LINQ, Prism
+- Framework: Microsoft .NET Framework 4.0
+- Database: MS SQL Server 2008/2012/2016, Oracle Database. MS Access, Teradata
+- Development Tools: Visual Studio, VS Code, IIS, Installshield, Telerik, Infragistics
+- Source Control Tool : TFS, GIT, Tortoise SVN, Serena Dimensions
 
-1. Numbered
-2. List
 
-**Bold** and _Italic_ and `Code` text
+### Professional Experience
 
-[Link](url) and ![Image](src)
-```
+### Boeing India Private Limited (Dec 2018 - till date).
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+Technologies Used : ASP.NET MVC, SQL, JavaScript, AngularJS, Angular, SQL, TeraData
+Roles and Responsibilities:
+- Created standard Design/Requirement/User Acceptance Testing Documents for software development process.
+- Requirement gathering and creating several new Webpages with D3.js charts.
+- Integration of Tableau charts in .NET code using JavaScript APIs.
+- Improved performance to Web Applications by more than 200 percent by using innovative techniques and Architectural modifications.
+- Improved performance of nightly Jobs using SQL query optimization techniques.
+- Reviewed work done by team members.
+- 
+### Honeywell Technologies Solutions (June 2015 – Nov 2018).
 
-### Jekyll Themes
+Technologies Used: ASP.NET, WPF, MVVM, SQL, Entity Framework, ASP.NET, Telerik UI
+Roles and Responsibilities:
+- Involved in discussion with partners (Clients) for requirements.
+- Involved in the requirement analysis and preparing Detailed Design.
+- Perform tool development using C#, MVVM, Prism and ASP.NET technologies.
+- Develop custom controls in WPF.
+- Preparing User Manual for modules.
+- Code Review and Unit Testing
+- Handled the development of complex Graphics Management Module from scratch.
+- Handled project demonstration to client at end of sprints.
+- Created Checklist for the developers, which needs to be followed before Code Check-in to SVN.
+- 
+### Accenture (Jul 2010 – June 2015).
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/gauravsinha200/GauravBITS/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+Technologies Used: Windows Form, MVVM, WPF, ASP.NET, SQL Server 2008, InstallShield
+Roles and Responsibilities:
+- Involved in Requirement Gathering for projects.
+- Involved in the development of the several tools from scratch using C#, WPF and MVVM.
+- Created Detailed Design of the tool.
+- Lead the development of the entire tool and groomed new developers in the process.
+- Implemented complex business logics and performed unit testing and code review.
+- Created User Manual for the Tool.
+- SQL Queries optimization
+- Received several appreciation and Titan award from Accenture for the quality work and achieving the milestone.
+- 
+### Education Details:
+- BE in Computer Science from P.E.S Institute of Technology, Bangalore in 2006-2010.
+- Class 12th (AISSCE) - DAV public school, Patna in 2005
+- Class 10th (AISSE) - DAV public school, Patna in 2003.
