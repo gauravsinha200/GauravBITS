@@ -1,15 +1,20 @@
-## Welcome to GitHub Pages
+## RESUME
 
-You can use the [editor on GitHub](https://github.com/gauravsinha200/GauravBITS/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
+GAURAV KUMAR SINHA
+Email-id:
+B.E [Computer Science] 
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+### PROFILE:
 
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
+ Software Engineer with Boeing India Pvt. Ltd having 10 years of experience in Software Development.
+ Experience in end to end Software development including requirement gathering, requirement analysis, design, development and unit testing.
+ Developed several application using .NET and Web technologies like ASP.NET MVC, WPF, Windows Form, HTML, AngularJS and Angular as per the project requirements.
+ Experience in creating /editing complex stored procedures, tables and views.
+ Implemented innovative software designs using Design Patterns.
+ Implemented MVVM, MVC and 3 Tier architectural pattern.
+ Good Experience with C#, JavaScript and SQL Queries optimization techniques.
+ Good Experience with Agile Software Processes and Certified SAFe 4 Practitioner.
+ Six Sigma Green Belt certified Professional.
 
 # Header 1
 ## Header 2
