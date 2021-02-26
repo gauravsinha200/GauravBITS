@@ -29,19 +29,19 @@
 
 ### Boeing India Private Limited (Dec 2018 - till date).
 
-Technologies Used : ASP.NET MVC, SQL, JavaScript, AngularJS, Angular, SQL, TeraData
-Roles and Responsibilities:
+#### Technologies Used : ASP.NET MVC, SQL, JavaScript, AngularJS, Angular, SQL, TeraData
+#### Roles and Responsibilities:
 - Created standard Design/Requirement/User Acceptance Testing Documents for software development process.
 - Requirement gathering and creating several new Webpages with D3.js charts.
 - Integration of Tableau charts in .NET code using JavaScript APIs.
 - Improved performance to Web Applications by more than 200 percent by using innovative techniques and Architectural modifications.
 - Improved performance of nightly Jobs using SQL query optimization techniques.
 - Reviewed work done by team members.
-- 
+
 ### Honeywell Technologies Solutions (June 2015 – Nov 2018).
 
-Technologies Used: ASP.NET, WPF, MVVM, SQL, Entity Framework, ASP.NET, Telerik UI
-Roles and Responsibilities:
+#### Technologies Used: ASP.NET, WPF, MVVM, SQL, Entity Framework, ASP.NET, Telerik UI
+#### Roles and Responsibilities:
 - Involved in discussion with partners (Clients) for requirements.
 - Involved in the requirement analysis and preparing Detailed Design.
 - Perform tool development using C#, MVVM, Prism and ASP.NET technologies.
@@ -51,11 +51,11 @@ Roles and Responsibilities:
 - Handled the development of complex Graphics Management Module from scratch.
 - Handled project demonstration to client at end of sprints.
 - Created Checklist for the developers, which needs to be followed before Code Check-in to SVN.
-- 
+
 ### Accenture (Jul 2010 – June 2015).
 
-Technologies Used: Windows Form, MVVM, WPF, ASP.NET, SQL Server 2008, InstallShield
-Roles and Responsibilities:
+#### Technologies Used: Windows Form, MVVM, WPF, ASP.NET, SQL Server 2008, InstallShield
+#### Roles and Responsibilities:
 - Involved in Requirement Gathering for projects.
 - Involved in the development of the several tools from scratch using C#, WPF and MVVM.
 - Created Detailed Design of the tool.
@@ -64,7 +64,7 @@ Roles and Responsibilities:
 - Created User Manual for the Tool.
 - SQL Queries optimization
 - Received several appreciation and Titan award from Accenture for the quality work and achieving the milestone.
-- 
+
 ### Education Details:
 - BE in Computer Science from P.E.S Institute of Technology, Bangalore in 2006-2010.
 - Class 12th (AISSCE) - DAV public school, Patna in 2005
