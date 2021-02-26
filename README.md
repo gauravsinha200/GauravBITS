@@ -6,10 +6,10 @@ B.E [Computer Science]
 
 ### PROFILE:
 
-Software Engineer with Boeing India Pvt. Ltd having 10 years of experience in Software Development.
--Experience in end to end Software development including requirement gathering, requirement analysis, design, development and unit testing.
--Developed several application using .NET and Web technologies like ASP.NET MVC, WPF, Windows Form, HTML, AngularJS and Angular as per the project requirements.
--Experience in creating /editing complex stored procedures, tables and views.
+Software Engineer with Boeing India Pvt. Ltd having 10 years of experience in Software Development.\n
+-Experience in end to end Software development including requirement gathering, requirement analysis, design, development and unit testing.\n
+-Developed several application using .NET and Web technologies like ASP.NET MVC, WPF, Windows Form, HTML, AngularJS and Angular as per the project requirements.\n
+-Experience in creating /editing complex stored procedures, tables and views.\n
 -Implemented innovative software designs using Design Patterns.
 -Implemented MVVM, MVC and 3 Tier architectural pattern.
 -Good Experience with C#, JavaScript and SQL Queries optimization techniques.
